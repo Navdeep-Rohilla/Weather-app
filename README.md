@@ -29,7 +29,7 @@ A simple **weather application** that fetches real-time weather data using the *
 
 
 ## 🔗 Live Demo
-[Live Version](#) (Deploy on GitHub Pages, Vercel, or Netlify and update the link.)
+[Live Version](#) https://navdeep-rohilla.github.io/Weather-app/
 
 ## 📌 API Used
 - **[OpenWeather API](https://openweathermap.org/api)** – Fetches real-time weather data.
